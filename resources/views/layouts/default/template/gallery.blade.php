@@ -85,7 +85,9 @@
 											<li role="presentation"><a href="#Section2" class="noround" aria-controls="profile" role="tab" data-toggle="tab">BANDUNG</a></li>
 											<li role="presentation"><a href="#bengkulu" class="noround" aria-controls="messages" role="tab" data-toggle="tab">BENGKULU</a></li>
 											<li role="presentation"><a href="#malang" class="noround" aria-controls="messages" role="tab" data-toggle="tab">MALANG</a></li>
-											<li role="presentation"><a href="#solo" class="roundright" aria-controls="messages" role="tab" data-toggle="tab">SOLO</a></li>
+											<li role="presentation"><a href="#solo" class="noround" aria-controls="messages" role="tab" data-toggle="tab">SOLO</a></li>
+											<li role="presentation"><a href="#pontianak" class="noround" aria-controls="messages" role="tab" data-toggle="tab">PONTIANAK</a></li>
+											<li role="presentation"><a href="#siantar" class="roundright" aria-controls="messages" role="tab" data-toggle="tab">SIANTAR</a></li>
 									</ul>
 									</div>
 									<div class="visible-xs">
@@ -361,6 +363,126 @@
 																	</div>
 													</div>
 											</div><!-- tab panel -->
+											<div role="tabpanel" class="tab-pane fade" id="pontianak">
+													<div class="gallery-detail">
+															<div class="container-fluid">
+																	<div class="col-md-2">
+																			<h4>Gor Pangsuma Pontianak</h4>
+																			<p>8 April 2018</p>
+																	</div>
+															</div>
+													</div>
+													<div class="wrap-gallery">
+															<div class="fotos">
+																	<div class="gallerij">
+																			<div class="row" id="galeri-6">
+																					<article class="col-6 col-sm-3" id="section6-1">
+																							<a href="#">
+																									<img data-position="41" src="{{ URL::to('/') }}/asset/images/pontianak-1.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section6-2">
+																							<a href="#">
+																									<img data-position="42" src="{{ URL::to('/') }}/asset/images/pontianak-2.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section6-3">
+																							<a href="#">
+																									<img data-position="43" src="{{ URL::to('/') }}/asset/images/pontianak-3.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section6-4">
+																							<a href="#">
+																									<img data-position="44" src="{{ URL::to('/') }}/asset/images/pontianak-4.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section6-5">
+																							<a href="#">
+																									<img data-position="45" src="{{ URL::to('/') }}/asset/images/pontianak-5.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section6-6">
+																							<a href="#">
+																									<img data-position="46" src="{{ URL::to('/') }}/asset/images/pontianak-6.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section6-7">
+																							<a href="#">
+																									<img data-position="47" src="{{ URL::to('/') }}/asset/images/pontianak-7.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section6-8">
+																							<a href="#">
+																									<img data-position="48" src="{{ URL::to('/') }}/asset/images/pontianak-8.JPG" alt="">
+																							</a>
+																					</article>
+																			</div>
+																			<div class="clearfix"></div>
+																			<p><a href="#" class="btn red-rounded more" data-number="3"><i class="fa fa-angle-down" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Load more</a></p>
+																			</div>
+																	</div>
+													</div>
+											</div><!-- tab panel -->
+											<div role="tabpanel" class="tab-pane fade" id="siantar">
+													<div class="gallery-detail">
+															<div class="container-fluid">
+																	<div class="col-md-3">
+																			<h4>Aula Kampus Nommensen</h4>
+																			<p>21 April 2018</p>
+																	</div>
+															</div>
+													</div>
+													<div class="wrap-gallery">
+															<div class="fotos">
+																	<div class="gallerij">
+																			<div class="row" id="galeri-7">
+																					<article class="col-6 col-sm-3" id="section7-1">
+																							<a href="#">
+																									<img data-position="49" src="{{ URL::to('/') }}/asset/images/siantar-1.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section7-2">
+																							<a href="#">
+																									<img data-position="50" src="{{ URL::to('/') }}/asset/images/siantar-2.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section7-3">
+																							<a href="#">
+																									<img data-position="51" src="{{ URL::to('/') }}/asset/images/siantar-3.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section7-4">
+																							<a href="#">
+																									<img data-position="52" src="{{ URL::to('/') }}/asset/images/siantar-4.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section7-5">
+																							<a href="#">
+																									<img data-position="53" src="{{ URL::to('/') }}/asset/images/siantar-5.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section7-6">
+																							<a href="#">
+																									<img data-position="54" src="{{ URL::to('/') }}/asset/images/siantar-6.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section7-7">
+																							<a href="#">
+																									<img data-position="55" src="{{ URL::to('/') }}/asset/images/siantar-7.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section7-8">
+																							<a href="#">
+																									<img data-position="56" src="{{ URL::to('/') }}/asset/images/siantar-8.JPG" alt="">
+																							</a>
+																					</article>
+																			</div>
+																			<div class="clearfix"></div>
+																			<p><a href="#" class="btn red-rounded more" data-number="3"><i class="fa fa-angle-down" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Load more</a></p>
+																			</div>
+																	</div>
+													</div>
+											</div><!-- tab panel -->
 									</div>
 		</div> <!-- end of body content -->
 </div>
@@ -514,6 +636,11 @@
 	                        else if ("4" == e) {
 	                            c = Number(c) + Number(8);
 	                            for (var f = $("#galeri-5 .col-6").size(), g = 1; g < Number(c) + Number(1); g++) $("#section5-" + g).show();
+	                            c >= f && $(this).hide()
+	                        }
+	                        else if ("5" == e) {
+	                            c = Number(c) + Number(8);
+	                            for (var f = $("#galeri-6 .col-6").size(), g = 1; g < Number(c) + Number(1); g++) $("#section6-" + g).show();
 	                            c >= f && $(this).hide()
 	                        }
 	                    }), $(".less").click(function(a) {
