@@ -9,4 +9,6 @@ SOW
 - Data Dumping ke Share Point. DPR
 - TGL TRX, PONTA ID, NO TELEPON
 - Data Dumping ke share point. PONTA
-PONTA ID, KOORDINAT TOKO, 
+PONTA ID, KOORDINAT TOKO,
+
+yoi boss
