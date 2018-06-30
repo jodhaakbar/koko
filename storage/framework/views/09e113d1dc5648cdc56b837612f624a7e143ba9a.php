@@ -5,18 +5,18 @@
   <meta charset="UTF-8">
 	<!-- Latest compiled and minified CSS -->
 		<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> -->
-		<link rel="stylesheet" type="text/css" href="{{ URL::to('/') }}/asset/bootstrap-less/css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="<?php echo e(URL::to('/')); ?>/asset/bootstrap-less/css/bootstrap.min.css">
 
 		<!-- Optional theme -->
 		<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous"> -->
-		<link rel="stylesheet" type="text/css" href="{{ URL::to('/') }}/asset/bootstrap-less/css/bootstrap-theme.min.css">
-	<link rel="stylesheet" type="text/css" href="{{ URL::to('/') }}/default.css">
-		<link rel="stylesheet" type="text/css" href="{{ URL::to('/') }}/gallery.css">
-	<link rel="stylesheet" href="{{ URL::to('/') }}/asset/nivo-slider/themes/default/default.css" type="text/css" media="screen" />
-		<link rel="stylesheet" href="{{ URL::to('/') }}/asset/nivo-slider/themes/light/light.css" type="text/css" media="screen" />
-		<link rel="stylesheet" href="{{ URL::to('/') }}/asset/nivo-slider/themes/dark/dark.css" type="text/css" media="screen" />
-		<link rel="stylesheet" href="{{ URL::to('/') }}/asset/nivo-slider/themes/bar/bar.css" type="text/css" media="screen" />
-		<link rel="stylesheet" href="{{ URL::to('/') }}/asset/nivo-slider/nivo-slider.css" type="text/css" media="screen" />
+		<link rel="stylesheet" type="text/css" href="<?php echo e(URL::to('/')); ?>/asset/bootstrap-less/css/bootstrap-theme.min.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo e(URL::to('/')); ?>/default.css">
+		<link rel="stylesheet" type="text/css" href="<?php echo e(URL::to('/')); ?>/gallery.css">
+	<link rel="stylesheet" href="<?php echo e(URL::to('/')); ?>/asset/nivo-slider/themes/default/default.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="<?php echo e(URL::to('/')); ?>/asset/nivo-slider/themes/light/light.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="<?php echo e(URL::to('/')); ?>/asset/nivo-slider/themes/dark/dark.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="<?php echo e(URL::to('/')); ?>/asset/nivo-slider/themes/bar/bar.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="<?php echo e(URL::to('/')); ?>/asset/nivo-slider/nivo-slider.css" type="text/css" media="screen" />
 		<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -29,12 +29,12 @@
 	        <div class="navbar-header">
 	            <div class="logo hidden-xs">
 	            	<a class="navbar-brand" href="#">
-	                   <img src="{{ URL::to('/') }}/asset/images/web/logo-koko.png" style="width:150px;">
+	                   <img src="<?php echo e(URL::to('/')); ?>/asset/images/web/logo-koko.png" style="width:150px;">
 	                </a>
 	            </div>
 	            <div class="logo visible-xs">
 	            	<a class="navbar-brand" href="#">
-	                   <img src="{{ URL::to('/') }}/asset/images/web/logo-koko.png" style="width:80px;margin-top: -15px;">
+	                   <img src="<?php echo e(URL::to('/')); ?>/asset/images/web/logo-koko.png" style="width:80px;margin-top: -15px;">
 	                </a>
 	            </div>
 	            <div class="visible-xs visible-sm visible-md">
@@ -51,17 +51,17 @@
 	        <div class="collapse navbar-collapse navbar-custom" id="bs-navbar-collapse-1">
 	          <ul class="nav navbar-nav">
 							<ul class="nav navbar-nav">
-							 <li><a href="{{ URL::to('/') }}" class="home">BERANDA</a></li>
-							 <li><a href="{{ URL::to('/') }}/tentang/" >TENTANG</a></li>
-							 <li><a href="{{ URL::to('/') }}/jadwallomba/" >JADWAL LOMBA</a></li>
-							 <li><a href="{{ URL::to('/') }}/daftar/" >DAFTAR</a></li>
-							 <li><a href="{{ URL::to('/') }}/galeri/" class="active" >GALERI</a></li>
-							 <li><a href="{{ URL::to('/') }}/video/">VIDEO</a></li>
+							 <li><a href="<?php echo e(URL::to('/')); ?>" class="home">BERANDA</a></li>
+							 <li><a href="<?php echo e(URL::to('/')); ?>/tentang/" >TENTANG</a></li>
+							 <li><a href="<?php echo e(URL::to('/')); ?>/jadwallomba/" >JADWAL LOMBA</a></li>
+							 <li><a href="<?php echo e(URL::to('/')); ?>/daftar/" >DAFTAR</a></li>
+							 <li><a href="<?php echo e(URL::to('/')); ?>/galeri/" class="active" >GALERI</a></li>
+							 <li><a href="<?php echo e(URL::to('/')); ?>/video/">VIDEO</a></li>
 						 </ul>
 	          </ul>
 	          <ul class="nav navbar-nav navbar-right nav-lbc visible-lg">
 	          	<li>
-	        		<img src="{{ URL::to('/') }}/asset/images/web/logo-nbc-new.png" class="img-responsive">
+	        		<img src="<?php echo e(URL::to('/')); ?>/asset/images/web/logo-nbc-new.png" class="img-responsive">
 	        	</li>
 	          </ul>
 	        </div><!-- /.navbar-collapse -->
@@ -119,14 +119,14 @@
 															<div class="fotos">
 																	<div class="gallerij">
 																			<div class="row" id="galeri-1">
-																					<article class="col-6 col-sm-3" id="section1-1">  <a href="#">                                                    <img data-position="1" src="{{ URL::to('/') }}/asset/images/bekasi-1.JPG" alt="">                                               </a>  </article>
-																					<article class="col-6 col-sm-3" id="section1-2">  <a href="#">                                                    <img data-position="2" src="{{ URL::to('/') }}/asset/images/bekasi-2.JPG" alt="">                                               </a>  </article>
-																					<article class="col-6 col-sm-3" id="section1-3">  <a href="#">                                                    <img data-position="3" src="{{ URL::to('/') }}/asset/images/bekasi-3.JPG" alt="">                                               </a>  </article>
-																					<article class="col-6 col-sm-3" id="section1-4">  <a href="#">                                                    <img data-position="4" src="{{ URL::to('/') }}/asset/images/bekasi-4.JPG" alt="">                                               </a>  </article>
-																					<article class="col-6 col-sm-3" id="section1-5">  <a href="#">                                                    <img data-position="5" src="{{ URL::to('/') }}/asset/images/bekasi-5.JPG" alt="">                                               </a>  </article>
-																					<article class="col-6 col-sm-3" id="section1-6">  <a href="#">                                                    <img data-position="6" src="{{ URL::to('/') }}/asset/images/bekasi-6.JPG" alt="">                                               </a>  </article>
-																					<article class="col-6 col-sm-3" id="section1-7">  <a href="#">                                                    <img data-position="7" src="{{ URL::to('/') }}/asset/images/bekasi-7.JPG" alt="">                                               </a>  </article>
-																					<article class="col-6 col-sm-3" id="section1-8">  <a href="#">                                                    <img data-position="8" src="{{ URL::to('/') }}/asset/images/bekasi-8.JPG" alt="">                                               </a>  </article>  </div>
+																					<article class="col-6 col-sm-3" id="section1-1">  <a href="#">                                                    <img data-position="1" src="<?php echo e(URL::to('/')); ?>/asset/images/bekasi-1.JPG" alt="">                                               </a>  </article>
+																					<article class="col-6 col-sm-3" id="section1-2">  <a href="#">                                                    <img data-position="2" src="<?php echo e(URL::to('/')); ?>/asset/images/bekasi-2.JPG" alt="">                                               </a>  </article>
+																					<article class="col-6 col-sm-3" id="section1-3">  <a href="#">                                                    <img data-position="3" src="<?php echo e(URL::to('/')); ?>/asset/images/bekasi-3.JPG" alt="">                                               </a>  </article>
+																					<article class="col-6 col-sm-3" id="section1-4">  <a href="#">                                                    <img data-position="4" src="<?php echo e(URL::to('/')); ?>/asset/images/bekasi-4.JPG" alt="">                                               </a>  </article>
+																					<article class="col-6 col-sm-3" id="section1-5">  <a href="#">                                                    <img data-position="5" src="<?php echo e(URL::to('/')); ?>/asset/images/bekasi-5.JPG" alt="">                                               </a>  </article>
+																					<article class="col-6 col-sm-3" id="section1-6">  <a href="#">                                                    <img data-position="6" src="<?php echo e(URL::to('/')); ?>/asset/images/bekasi-6.JPG" alt="">                                               </a>  </article>
+																					<article class="col-6 col-sm-3" id="section1-7">  <a href="#">                                                    <img data-position="7" src="<?php echo e(URL::to('/')); ?>/asset/images/bekasi-7.JPG" alt="">                                               </a>  </article>
+																					<article class="col-6 col-sm-3" id="section1-8">  <a href="#">                                                    <img data-position="8" src="<?php echo e(URL::to('/')); ?>/asset/images/bekasi-8.JPG" alt="">                                               </a>  </article>  </div>
 																			<div class="clearfix"></div>
 																			<p><a href="#" class="btn red-rounded more" data-number="0"><i class="fa fa-angle-down" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Load more</a></p>  </div>  </div>   </div>  </div>
 											<div role="tabpanel" class="tab-pane fade" id="Section2">
@@ -144,42 +144,42 @@
 																			<div class="row" id="galeri-2">
 																					<article class="col-6 col-sm-3" id="section2-1">
 																							<a href="#">
-																									<img data-position="9" src="{{ URL::to('/') }}/asset/images/bandung-1.JPG" alt="">
+																									<img data-position="9" src="<?php echo e(URL::to('/')); ?>/asset/images/bandung-1.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section2-2">
 																							<a href="#">
-																									<img data-position="10" src="{{ URL::to('/') }}/asset/images/bandung-2.JPG" alt="">
+																									<img data-position="10" src="<?php echo e(URL::to('/')); ?>/asset/images/bandung-2.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section2-3">
 																							<a href="#">
-																									<img data-position="11" src="{{ URL::to('/') }}/asset/images/bandung-3.JPG" alt="">
+																									<img data-position="11" src="<?php echo e(URL::to('/')); ?>/asset/images/bandung-3.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section2-4">
 																							<a href="#">
-																									<img data-position="12" src="{{ URL::to('/') }}/asset/images/bandung-4.JPG" alt="">
+																									<img data-position="12" src="<?php echo e(URL::to('/')); ?>/asset/images/bandung-4.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section2-5">
 																							<a href="#">
-																									<img data-position="13" src="{{ URL::to('/') }}/asset/images/bandung-5.JPG" alt="">
+																									<img data-position="13" src="<?php echo e(URL::to('/')); ?>/asset/images/bandung-5.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section2-6">
 																							<a href="#">
-																									<img data-position="14" src="{{ URL::to('/') }}/asset/images/bandung-6.JPG" alt="">
+																									<img data-position="14" src="<?php echo e(URL::to('/')); ?>/asset/images/bandung-6.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section2-7">
 																							<a href="#">
-																									<img data-position="15" src="{{ URL::to('/') }}/asset/images/bandung-7.JPG" alt="">
+																									<img data-position="15" src="<?php echo e(URL::to('/')); ?>/asset/images/bandung-7.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section2-8">
 																							<a href="#">
-																									<img data-position="16" src="{{ URL::to('/') }}/asset/images/bandung-8.JPG" alt="">
+																									<img data-position="16" src="<?php echo e(URL::to('/')); ?>/asset/images/bandung-8.JPG" alt="">
 																							</a>
 																					</article>
 																			</div>
@@ -200,42 +200,42 @@
 																			<div class="row" id="galeri-3">
 																					<article class="col-6 col-sm-3" id="section3-1">
 																							<a href="#">
-																									<img data-position="17" src="{{ URL::to('/') }}/asset/images/bengkulu-1.JPG" alt="">
+																									<img data-position="17" src="<?php echo e(URL::to('/')); ?>/asset/images/bengkulu-1.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section3-2">
 																							<a href="#">
-																									<img data-position="18" src="{{ URL::to('/') }}/asset/images/bengkulu-2.JPG" alt="">
+																									<img data-position="18" src="<?php echo e(URL::to('/')); ?>/asset/images/bengkulu-2.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section3-3">
 																							<a href="#">
-																									<img data-position="19" src="{{ URL::to('/') }}/asset/images/bengkulu-3.JPG" alt="">
+																									<img data-position="19" src="<?php echo e(URL::to('/')); ?>/asset/images/bengkulu-3.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section3-4">
 																							<a href="#">
-																									<img data-position="20" src="{{ URL::to('/') }}/asset/images/bengkulu-4.JPG" alt="">
+																									<img data-position="20" src="<?php echo e(URL::to('/')); ?>/asset/images/bengkulu-4.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section3-5">
 																							<a href="#">
-																									<img data-position="21" src="{{ URL::to('/') }}/asset/images/bengkulu-5.JPG" alt="">
+																									<img data-position="21" src="<?php echo e(URL::to('/')); ?>/asset/images/bengkulu-5.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section3-2">
 																							<a href="#">
-																									<img data-position="22" src="{{ URL::to('/') }}/asset/images/bengkulu-6.JPG" alt="">
+																									<img data-position="22" src="<?php echo e(URL::to('/')); ?>/asset/images/bengkulu-6.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section3-2">
 																							<a href="#">
-																									<img data-position="23" src="{{ URL::to('/') }}/asset/images/bengkulu-7.JPG" alt="">
+																									<img data-position="23" src="<?php echo e(URL::to('/')); ?>/asset/images/bengkulu-7.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section3-2">
 																							<a href="#">
-																									<img data-position="24" src="{{ URL::to('/') }}/asset/images/bengkulu-8.JPG" alt="">
+																									<img data-position="24" src="<?php echo e(URL::to('/')); ?>/asset/images/bengkulu-8.JPG" alt="">
 																							</a>
 																					</article>
 																			</div>
@@ -260,42 +260,42 @@
 																			<div class="row" id="galeri-4">
 																					<article class="col-6 col-sm-3" id="section4-1">
 																							<a href="#">
-																									<img data-position="25" src="{{ URL::to('/') }}/asset/images/malang-1.JPG" alt="">
+																									<img data-position="25" src="<?php echo e(URL::to('/')); ?>/asset/images/malang-1.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section4-2">
 																							<a href="#">
-																									<img data-position="26" src="{{ URL::to('/') }}/asset/images/malang-2.JPG" alt="">
+																									<img data-position="26" src="<?php echo e(URL::to('/')); ?>/asset/images/malang-2.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section4-3">
 																							<a href="#">
-																									<img data-position="27" src="{{ URL::to('/') }}/asset/images/malang-3.JPG" alt="">
+																									<img data-position="27" src="<?php echo e(URL::to('/')); ?>/asset/images/malang-3.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section4-4">
 																							<a href="#">
-																									<img data-position="28" src="{{ URL::to('/') }}/asset/images/malang-4.JPG" alt="">
+																									<img data-position="28" src="<?php echo e(URL::to('/')); ?>/asset/images/malang-4.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section4-5">
 																							<a href="#">
-																									<img data-position="29" src="{{ URL::to('/') }}/asset/images/malang-5.JPG" alt="">
+																									<img data-position="29" src="<?php echo e(URL::to('/')); ?>/asset/images/malang-5.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section4-6">
 																							<a href="#">
-																									<img data-position="30" src="{{ URL::to('/') }}/asset/images/malang-6.JPG" alt="">
+																									<img data-position="30" src="<?php echo e(URL::to('/')); ?>/asset/images/malang-6.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section4-7">
 																							<a href="#">
-																									<img data-position="31" src="{{ URL::to('/') }}/asset/images/malang-7.JPG" alt="">
+																									<img data-position="31" src="<?php echo e(URL::to('/')); ?>/asset/images/malang-7.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section4-8">
 																							<a href="#">
-																									<img data-position="32" src="{{ URL::to('/') }}/asset/images/malang-8.JPG" alt="">
+																									<img data-position="32" src="<?php echo e(URL::to('/')); ?>/asset/images/malang-8.JPG" alt="">
 																							</a>
 																					</article>
 																			</div>
@@ -320,42 +320,42 @@
 																			<div class="row" id="galeri-5">
 																					<article class="col-6 col-sm-3" id="section5-1">
 																							<a href="#">
-																									<img data-position="33" src="{{ URL::to('/') }}/asset/images/solo-1.JPG" alt="">
+																									<img data-position="33" src="<?php echo e(URL::to('/')); ?>/asset/images/solo-1.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section5-2">
 																							<a href="#">
-																									<img data-position="34" src="{{ URL::to('/') }}/asset/images/solo-2.JPG" alt="">
+																									<img data-position="34" src="<?php echo e(URL::to('/')); ?>/asset/images/solo-2.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section5-3">
 																							<a href="#">
-																									<img data-position="35" src="{{ URL::to('/') }}/asset/images/solo-3.JPG" alt="">
+																									<img data-position="35" src="<?php echo e(URL::to('/')); ?>/asset/images/solo-3.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section5-4">
 																							<a href="#">
-																									<img data-position="36" src="{{ URL::to('/') }}/asset/images/solo-4.JPG" alt="">
+																									<img data-position="36" src="<?php echo e(URL::to('/')); ?>/asset/images/solo-4.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section5-5">
 																							<a href="#">
-																									<img data-position="37" src="{{ URL::to('/') }}/asset/images/solo-5.JPG" alt="">
+																									<img data-position="37" src="<?php echo e(URL::to('/')); ?>/asset/images/solo-5.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section5-6">
 																							<a href="#">
-																									<img data-position="38" src="{{ URL::to('/') }}/asset/images/solo-6.JPG" alt="">
+																									<img data-position="38" src="<?php echo e(URL::to('/')); ?>/asset/images/solo-6.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section5-7">
 																							<a href="#">
-																									<img data-position="39" src="{{ URL::to('/') }}/asset/images/solo-7.JPG" alt="">
+																									<img data-position="39" src="<?php echo e(URL::to('/')); ?>/asset/images/solo-7.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section5-8">
 																							<a href="#">
-																									<img data-position="40" src="{{ URL::to('/') }}/asset/images/solo-8.JPG" alt="">
+																									<img data-position="40" src="<?php echo e(URL::to('/')); ?>/asset/images/solo-8.JPG" alt="">
 																							</a>
 																					</article>
 																			</div>
@@ -380,42 +380,42 @@
 																			<div class="row" id="galeri-6">
 																					<article class="col-6 col-sm-3" id="section6-1">
 																							<a href="#">
-																									<img data-position="41" src="{{ URL::to('/') }}/asset/images/pontianak-1.JPG" alt="">
+																									<img data-position="41" src="<?php echo e(URL::to('/')); ?>/asset/images/pontianak-1.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section6-2">
 																							<a href="#">
-																									<img data-position="42" src="{{ URL::to('/') }}/asset/images/pontianak-2.JPG" alt="">
+																									<img data-position="42" src="<?php echo e(URL::to('/')); ?>/asset/images/pontianak-2.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section6-3">
 																							<a href="#">
-																									<img data-position="43" src="{{ URL::to('/') }}/asset/images/pontianak-3.JPG" alt="">
+																									<img data-position="43" src="<?php echo e(URL::to('/')); ?>/asset/images/pontianak-3.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section6-4">
 																							<a href="#">
-																									<img data-position="44" src="{{ URL::to('/') }}/asset/images/pontianak-4.JPG" alt="">
+																									<img data-position="44" src="<?php echo e(URL::to('/')); ?>/asset/images/pontianak-4.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section6-5">
 																							<a href="#">
-																									<img data-position="45" src="{{ URL::to('/') }}/asset/images/pontianak-5.JPG" alt="">
+																									<img data-position="45" src="<?php echo e(URL::to('/')); ?>/asset/images/pontianak-5.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section6-6">
 																							<a href="#">
-																									<img data-position="46" src="{{ URL::to('/') }}/asset/images/pontianak-6.JPG" alt="">
+																									<img data-position="46" src="<?php echo e(URL::to('/')); ?>/asset/images/pontianak-6.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section6-7">
 																							<a href="#">
-																									<img data-position="47" src="{{ URL::to('/') }}/asset/images/pontianak-7.JPG" alt="">
+																									<img data-position="47" src="<?php echo e(URL::to('/')); ?>/asset/images/pontianak-7.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section6-8">
 																							<a href="#">
-																									<img data-position="48" src="{{ URL::to('/') }}/asset/images/pontianak-8.JPG" alt="">
+																									<img data-position="48" src="<?php echo e(URL::to('/')); ?>/asset/images/pontianak-8.JPG" alt="">
 																							</a>
 																					</article>
 																			</div>
@@ -440,42 +440,42 @@
 																			<div class="row" id="galeri-7">
 																					<article class="col-6 col-sm-3" id="section7-1">
 																							<a href="#">
-																									<img data-position="49" src="{{ URL::to('/') }}/asset/images/siantar-1.JPG" alt="">
+																									<img data-position="49" src="<?php echo e(URL::to('/')); ?>/asset/images/siantar-1.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section7-2">
 																							<a href="#">
-																									<img data-position="50" src="{{ URL::to('/') }}/asset/images/siantar-2.JPG" alt="">
+																									<img data-position="50" src="<?php echo e(URL::to('/')); ?>/asset/images/siantar-2.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section7-3">
 																							<a href="#">
-																									<img data-position="51" src="{{ URL::to('/') }}/asset/images/siantar-3.JPG" alt="">
+																									<img data-position="51" src="<?php echo e(URL::to('/')); ?>/asset/images/siantar-3.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section7-4">
 																							<a href="#">
-																									<img data-position="52" src="{{ URL::to('/') }}/asset/images/siantar-4.JPG" alt="">
+																									<img data-position="52" src="<?php echo e(URL::to('/')); ?>/asset/images/siantar-4.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section7-5">
 																							<a href="#">
-																									<img data-position="53" src="{{ URL::to('/') }}/asset/images/siantar-5.JPG" alt="">
+																									<img data-position="53" src="<?php echo e(URL::to('/')); ?>/asset/images/siantar-5.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section7-6">
 																							<a href="#">
-																									<img data-position="54" src="{{ URL::to('/') }}/asset/images/siantar-6.JPG" alt="">
+																									<img data-position="54" src="<?php echo e(URL::to('/')); ?>/asset/images/siantar-6.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section7-7">
 																							<a href="#">
-																									<img data-position="55" src="{{ URL::to('/') }}/asset/images/siantar-7.JPG" alt="">
+																									<img data-position="55" src="<?php echo e(URL::to('/')); ?>/asset/images/siantar-7.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section7-8">
 																							<a href="#">
-																									<img data-position="56" src="{{ URL::to('/') }}/asset/images/siantar-8.JPG" alt="">
+																									<img data-position="56" src="<?php echo e(URL::to('/')); ?>/asset/images/siantar-8.JPG" alt="">
 																							</a>
 																					</article>
 																			</div>
@@ -492,12 +492,12 @@
 		<div class="footer">
 	    	<div class="row hidden-xs">
 	    		<div class="col-md-3">
-	    			<img src="{{ URL::to('/') }}/asset/images/web/koko-olimpiade.png" class="img-responsive">
+	    			<img src="<?php echo e(URL::to('/')); ?>/asset/images/web/koko-olimpiade.png" class="img-responsive">
 	    		</div>
 	    		<div class="col-md-5">
 	    			<div class="contact">
 	    				<div style="width: 45px;float: left;padding: 10px 0 0 0">
-	    					<img style="width:40px" src="{{ URL::to('/') }}/asset/images/web/icon-phone.png">
+	    					<img style="width:40px" src="<?php echo e(URL::to('/')); ?>/asset/images/web/icon-phone.png">
 	    				</div>
 	    				<div style="width: 130px;float: left">
 	    					Nestl&eacute; Customer Service<br />
@@ -507,7 +507,7 @@
 	    				</div>
 	    				<div style="width: 45px;float: left;padding: 10px 0 0 0">
 	    					<a href="http://sahabatnestle.co.id/contactus" title="Kontak Kami">
-	    						<img style="width:40px" src="{{ URL::to('/') }}/asset/images/web/icon-mail.png">
+	    						<img style="width:40px" src="<?php echo e(URL::to('/')); ?>/asset/images/web/icon-mail.png">
 	    					</a>
 	    				</div>
 	    				<div style="width: 70px;float: left;padding: 15px 0 0 0">
@@ -517,7 +517,7 @@
 	    				</div>
 	    				<div style="width: 45px;float: left;padding: 10px 0 0 0;">
 	    					<a href="http://sahabatnestle.co.id/privacy" title="Privacy Policy">
-	    						<img style="width:40px" src="{{ URL::to('/') }}/asset/images/web/icon-policy.png">
+	    						<img style="width:40px" src="<?php echo e(URL::to('/')); ?>/asset/images/web/icon-policy.png">
 	    					</a>
 	    				</div>
 	    				<div style="width: 100px;float: left;padding: 15px 0 0 0;">
@@ -539,11 +539,11 @@
 	    	</div>
 	    	<div class="row visible-xs">
 	    		<div class="col-xs-12" style="margin-bottom: 25px;">
-	    			<img src="{{ URL::to('/') }}/asset/images/web/koko-olimpiade.png" class="img-responsive">
+	    			<img src="<?php echo e(URL::to('/')); ?>/asset/images/web/koko-olimpiade.png" class="img-responsive">
 	    		</div>
 	    		<div class="col-xs-12" style="margin-bottom: 25px;">
 	    			<div class="col-xs-3">
-	    					<img style="width:40px" src="{{ URL::to('/') }}/asset/images/web/icon-phone.png">
+	    					<img style="width:40px" src="<?php echo e(URL::to('/')); ?>/asset/images/web/icon-phone.png">
 	    				</div>
 	    				<div class="col-xs-9">
 	    					Nestl&eacute; Customer Service<br />
@@ -556,7 +556,7 @@
 	    			<div class="contact">
 	    				<div style="width: 30px;float: left;padding: 10px 0 0 0">
 	    					<a href="https://www.sahabatnestle.co.id/contactus" title="Kontak Kami">
-	    						<img style="width:25px" src="{{ URL::to('/') }}/asset/images/web/icon-mail.png">
+	    						<img style="width:25px" src="<?php echo e(URL::to('/')); ?>/asset/images/web/icon-mail.png">
 	    					</a>
 	    				</div>
 	    				<div style="width: 70px;float: left;padding: 15px 0 0 0">
@@ -566,7 +566,7 @@
 	    				</div>
 	    				<div style="width: 45px;float: left;padding: 10px 0 0 0;">
                             <a href="https://www.sahabatnestle.co.id/privacy" title="Privacy Policy">
-                                <img style="width:40px" src="{{ URL::to('/') }}/asset/images/web/icon-policy.png">
+                                <img style="width:40px" src="<?php echo e(URL::to('/')); ?>/asset/images/web/icon-policy.png">
                             </a>
                         </div>
                         <div style="width: 75px;float: left;padding: 15px 0 0 0;">
@@ -589,7 +589,7 @@
 	    </div>
 	</div>
 	<div class="floating-notice visible-xs text-center">
-    	<a href="{{ URL::to('/') }}/daftar/"><h4><b><u>Daftar Lomba</u></b></h4></a>
+    	<a href="<?php echo e(URL::to('/')); ?>/daftar/"><h4><b><u>Daftar Lomba</u></b></h4></a>
 	  </div>
 			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 	    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
