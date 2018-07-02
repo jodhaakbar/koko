@@ -87,8 +87,24 @@
 											<li role="presentation"><a href="#malang" class="noround" aria-controls="messages" role="tab" data-toggle="tab">MALANG</a></li>
 											<li role="presentation"><a href="#solo" class="noround" aria-controls="messages" role="tab" data-toggle="tab">SOLO</a></li>
 											<li role="presentation"><a href="#pontianak" class="noround" aria-controls="messages" role="tab" data-toggle="tab">PONTIANAK</a></li>
+											<li role="presentation"><a href="#cirebon" class="noround" aria-controls="profile" role="tab" data-toggle="tab">CIREBON</a></li>
+											<li role="presentation"><a href="#lampung" class="noround" aria-controls="profile" role="tab" data-toggle="tab">LAMPUNG</a></li>
+											<li role="presentation"><a href="#makassar" class="noround" aria-controls="profile" role="tab" data-toggle="tab">MAKASSAR</a></li>
+											<li role="presentation"><a href="#tangsel" class="noround" aria-controls="profile" role="tab" data-toggle="tab">TANGSEL</a></li>
+											<li role="presentation"><a href="#tegal" class="noround" aria-controls="profile" role="tab" data-toggle="tab">TEGAL</a></li>
+											<li role="presentation"><a href="#palu" class="noround" aria-controls="profile" role="tab" data-toggle="tab">PALU</a></li>
+											<li role="presentation"><a href="#padang" class="noround" aria-controls="profile" role="tab" data-toggle="tab">PADANG</a></li>
 											<li role="presentation"><a href="#siantar" class="roundright" aria-controls="messages" role="tab" data-toggle="tab">SIANTAR</a></li>
-									</ul>
+									</ul><br />
+									<!-- <ul class="nav nav-tabs" role="tablist">
+											<li role="presentation"><a href="#cirebon" class="roundleft" aria-controls="home" role="tab" data-toggle="tab">CIREBON</a></li>
+											<li role="presentation"><a href="#lampung" class="noround" aria-controls="profile" role="tab" data-toggle="tab">LAMPUNG</a></li>
+											<li role="presentation"><a href="#makassar" class="noround" aria-controls="profile" role="tab" data-toggle="tab">MAKASSAR</a></li>
+											<li role="presentation"><a href="#tangsel" class="noround" aria-controls="profile" role="tab" data-toggle="tab">TANGSEL</a></li>
+											<li role="presentation"><a href="#tegal" class="noround" aria-controls="profile" role="tab" data-toggle="tab">TEGAL</a></li>
+											<li role="presentation"><a href="#palu" class="noround" aria-controls="profile" role="tab" data-toggle="tab">PALU</a></li>
+											<li role="presentation"><a href="#padang" class="roundright" aria-controls="messages" role="tab" data-toggle="tab">PADANG</a></li>
+									</ul> -->
 									</div>
 									<div class="visible-xs">
 											<div class=" col-xs-8 col-xs-offset-1">
@@ -485,6 +501,381 @@
 																	</div>
 													</div>
 											</div><!-- tab panel -->
+											<div role="tabpanel" class="tab-pane fade" id="cirebon">
+													<div class="gallery-detail">
+															<div class="container-fluid">
+																	<div class="col-md-3">
+																			<h4>Pemuda Sport Centre</h4>
+																			<p>6 May 2018</p>
+																	</div>
+															</div>
+													</div>
+													<div class="wrap-gallery">
+															<div class="fotos">
+																	<div class="gallerij">
+																			<div class="row" id="galeri-8">
+																					<article class="col-6 col-sm-3" id="section8-1">
+																							<a href="#">
+																									<img data-position="57" src="<?php echo e(URL::to('/')); ?>/asset/images/cirebon-1.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section8-2">
+																							<a href="#">
+																									<img data-position="58" src="<?php echo e(URL::to('/')); ?>/asset/images/cirebon-2.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section8-3">
+																							<a href="#">
+																									<img data-position="59" src="<?php echo e(URL::to('/')); ?>/asset/images/cirebon-3.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section8-4">
+																							<a href="#">
+																									<img data-position="60" src="<?php echo e(URL::to('/')); ?>/asset/images/cirebon-4.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section8-5">
+																							<a href="#">
+																									<img data-position="61" src="<?php echo e(URL::to('/')); ?>/asset/images/cirebon-5.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section8-6">
+																							<a href="#">
+																									<img data-position="62" src="<?php echo e(URL::to('/')); ?>/asset/images/cirebon-6.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section8-7">
+																							<a href="#">
+																									<img data-position="63" src="<?php echo e(URL::to('/')); ?>/asset/images/cirebon-7.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section8-8">
+																							<a href="#">
+																									<img data-position="64" src="<?php echo e(URL::to('/')); ?>/asset/images/cirebon-8.JPG" alt="">
+																							</a>
+																					</article>
+																			</div>
+																			<div class="clearfix"></div>
+																			<p><a href="#" class="btn red-rounded more" data-number="3"><i class="fa fa-angle-down" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Load more</a></p>
+																			</div>
+																	</div>
+													</div>
+											</div><!-- tab panel -->
+											<div role="tabpanel" class="tab-pane fade" id="lampung">
+													<div class="gallery-detail">
+															<div class="container-fluid">
+																	<div class="col-md-3">
+																			<h4>GOR Way Halim</h4>
+																			<p>6 May 2018</p>
+																	</div>
+															</div>
+													</div>
+													<div class="wrap-gallery">
+															<div class="fotos">
+																	<div class="gallerij">
+																			<div class="row" id="galeri-9">
+																					<article class="col-6 col-sm-3" id="section9-1">
+																							<a href="#">
+																									<img data-position="65" src="<?php echo e(URL::to('/')); ?>/asset/images/lampung-1.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section9-2">
+																							<a href="#">
+																									<img data-position="66" src="<?php echo e(URL::to('/')); ?>/asset/images/lampung-2.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section9-3">
+																							<a href="#">
+																									<img data-position="67" src="<?php echo e(URL::to('/')); ?>/asset/images/lampung-3.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section9-4">
+																							<a href="#">
+																									<img data-position="68" src="<?php echo e(URL::to('/')); ?>/asset/images/lampung-4.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section9-5">
+																							<a href="#">
+																									<img data-position="69" src="<?php echo e(URL::to('/')); ?>/asset/images/lampung-5.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section9-6">
+																							<a href="#">
+																									<img data-position="70" src="<?php echo e(URL::to('/')); ?>/asset/images/lampung-6.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section9-7">
+																							<a href="#">
+																									<img data-position="71" src="<?php echo e(URL::to('/')); ?>/asset/images/lampung-7.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section9-8">
+																							<a href="#">
+																									<img data-position="72" src="<?php echo e(URL::to('/')); ?>/asset/images/lampung-8.JPG" alt="">
+																							</a>
+																					</article>
+																			</div>
+																			<div class="clearfix"></div>
+																			<p><a href="#" class="btn red-rounded more" data-number="3"><i class="fa fa-angle-down" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Load more</a></p>
+																			</div>
+																	</div>
+													</div>
+											</div><!-- tab panel -->
+											<div role="tabpanel" class="tab-pane fade" id="makassar">
+													<div class="gallery-detail">
+															<div class="container-fluid">
+																	<div class="col-md-3">
+																			<h4>Celebes Convention Center</h4>
+																			<p>15 April 2018</p>
+																	</div>
+															</div>
+													</div>
+													<div class="wrap-gallery">
+															<div class="fotos">
+																	<div class="gallerij">
+																			<div class="row" id="galeri-10">
+																					<article class="col-6 col-sm-3" id="section10-1">
+																							<a href="#">
+																									<img data-position="73" src="<?php echo e(URL::to('/')); ?>/asset/images/makassar-1.JPEG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section10-2">
+																							<a href="#">
+																									<img data-position="74" src="<?php echo e(URL::to('/')); ?>/asset/images/makassar-2.JPEG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section10-3">
+																							<a href="#">
+																									<img data-position="75" src="<?php echo e(URL::to('/')); ?>/asset/images/makassar-3.JPEG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section10-4">
+																							<a href="#">
+																									<img data-position="76" src="<?php echo e(URL::to('/')); ?>/asset/images/makassar-4.JPEG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section10-5">
+																							<a href="#">
+																									<img data-position="77" src="<?php echo e(URL::to('/')); ?>/asset/images/makassar-5.JPEG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section10-6">
+																							<a href="#">
+																									<img data-position="78" src="<?php echo e(URL::to('/')); ?>/asset/images/makassar-6.JPEG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section10-7">
+																							<a href="#">
+																									<img data-position="79" src="<?php echo e(URL::to('/')); ?>/asset/images/makassar-7.JPEG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section10-8">
+																							<a href="#">
+																									<img data-position="80" src="<?php echo e(URL::to('/')); ?>/asset/images/makassar-8.JPEG" alt="">
+																							</a>
+																					</article>
+																			</div>
+																			<div class="clearfix"></div>
+																			<p><a href="#" class="btn red-rounded more" data-number="3"><i class="fa fa-angle-down" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Load more</a></p>
+																			</div>
+																	</div>
+													</div>
+											</div><!-- tab panel -->
+											<div role="tabpanel" class="tab-pane fade" id="tangsel">
+													<div class="gallery-detail">
+															<div class="container-fluid">
+																	<div class="col-md-3">
+																			<h4>QBIG BSD City</h4>
+																			<p>15 April 2018</p>
+																	</div>
+															</div>
+													</div>
+													<div class="wrap-gallery">
+															<div class="fotos">
+																	<div class="gallerij">
+																			<div class="row" id="galeri-11">
+																					<article class="col-6 col-sm-3" id="section11-1">
+																							<a href="#">
+																									<img data-position="81" src="<?php echo e(URL::to('/')); ?>/asset/images/tangsel-1.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section11-2">
+																							<a href="#">
+																									<img data-position="82" src="<?php echo e(URL::to('/')); ?>/asset/images/tangsel-2.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section11-3">
+																							<a href="#">
+																									<img data-position="83" src="<?php echo e(URL::to('/')); ?>/asset/images/tangsel-3.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section11-4">
+																							<a href="#">
+																									<img data-position="84" src="<?php echo e(URL::to('/')); ?>/asset/images/tangsel-4.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section11-5">
+																							<a href="#">
+																									<img data-position="85" src="<?php echo e(URL::to('/')); ?>/asset/images/tangsel-5.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section11-6">
+																							<a href="#">
+																									<img data-position="86" src="<?php echo e(URL::to('/')); ?>/asset/images/tangsel-6.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section11-7">
+																							<a href="#">
+																									<img data-position="87" src="<?php echo e(URL::to('/')); ?>/asset/images/tangsel-7.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section11-8">
+																							<a href="#">
+																									<img data-position="88" src="<?php echo e(URL::to('/')); ?>/asset/images/tangsel-8.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section11-8">
+																							<a href="#">
+																									<img data-position="89" src="<?php echo e(URL::to('/')); ?>/asset/images/tangsel-9.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section11-8">
+																							<a href="#">
+																									<img data-position="90" src="<?php echo e(URL::to('/')); ?>/asset/images/tangsel-10.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section11-8">
+																							<a href="#">
+																									<img data-position="91" src="<?php echo e(URL::to('/')); ?>/asset/images/tangsel-11.JPG" alt="">
+																							</a>
+																					</article>
+																			</div>
+																			<div class="clearfix"></div>
+																			<p><a href="#" class="btn red-rounded more" data-number="3"><i class="fa fa-angle-down" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Load more</a></p>
+																			</div>
+																	</div>
+													</div>
+											</div><!-- tab panel -->
+											<div role="tabpanel" class="tab-pane fade" id="tegal">
+													<div class="gallery-detail">
+															<div class="container-fluid">
+																	<div class="col-md-3">
+																			<h4>GOR Wisanggeni Tegal</h4>
+																			<p>19 May 2018</p>
+																	</div>
+															</div>
+													</div>
+													<div class="wrap-gallery">
+															<div class="fotos">
+																	<div class="gallerij">
+																			<div class="row" id="galeri-12">
+																					<article class="col-6 col-sm-3" id="section12-1">
+																							<a href="#">
+																									<img data-position="92" src="<?php echo e(URL::to('/')); ?>/asset/images/tegal-1.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section12-2">
+																							<a href="#">
+																									<img data-position="93" src="<?php echo e(URL::to('/')); ?>/asset/images/tegal-2.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section12-3">
+																							<a href="#">
+																									<img data-position="94" src="<?php echo e(URL::to('/')); ?>/asset/images/tegal-3.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section12-4">
+																							<a href="#">
+																									<img data-position="95" src="<?php echo e(URL::to('/')); ?>/asset/images/tegal-4.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section12-5">
+																							<a href="#">
+																									<img data-position="96" src="<?php echo e(URL::to('/')); ?>/asset/images/tegal-5.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section12-6">
+																							<a href="#">
+																									<img data-position="97" src="<?php echo e(URL::to('/')); ?>/asset/images/tegal-6.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section12-7">
+																							<a href="#">
+																									<img data-position="98" src="<?php echo e(URL::to('/')); ?>/asset/images/tegal-7.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section12-8">
+																							<a href="#">
+																									<img data-position="99" src="<?php echo e(URL::to('/')); ?>/asset/images/tegal-8.JPG" alt="">
+																							</a>
+																					</article>
+																			</div>
+																			<div class="clearfix"></div>
+																			<p><a href="#" class="btn red-rounded more" data-number="3"><i class="fa fa-angle-down" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Load more</a></p>
+																			</div>
+																	</div>
+													</div>
+											</div><!-- tab panel -->
+											<div role="tabpanel" class="tab-pane fade" id="palu">
+													<div class="gallery-detail">
+															<div class="container-fluid">
+																	<div class="col-md-3">
+																			<h4>GOR KONI Palu</h4>
+																			<p>22 April 2018</p>
+																	</div>
+															</div>
+													</div>
+													<div class="wrap-gallery">
+															<div class="fotos">
+																	<div class="gallerij">
+																			<div class="row" id="galeri-13">
+																					<article class="col-6 col-sm-3" id="section13-1">
+																							<a href="#">
+																									<img data-position="100" src="<?php echo e(URL::to('/')); ?>/asset/images/palu-1.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section13-2">
+																							<a href="#">
+																									<img data-position="101" src="<?php echo e(URL::to('/')); ?>/asset/images/palu-2.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section13-3">
+																							<a href="#">
+																									<img data-position="102" src="<?php echo e(URL::to('/')); ?>/asset/images/palu-3.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section13-4">
+																							<a href="#">
+																									<img data-position="103" src="<?php echo e(URL::to('/')); ?>/asset/images/palu-4.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section13-5">
+																							<a href="#">
+																									<img data-position="104" src="<?php echo e(URL::to('/')); ?>/asset/images/palu-5.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section13-6">
+																							<a href="#">
+																									<img data-position="105" src="<?php echo e(URL::to('/')); ?>/asset/images/palu-6.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section13-7">
+																							<a href="#">
+																									<img data-position="106" src="<?php echo e(URL::to('/')); ?>/asset/images/palu-7.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section13-8">
+																							<a href="#">
+																									<img data-position="107" src="<?php echo e(URL::to('/')); ?>/asset/images/palu-8.JPG" alt="">
+																							</a>
+																					</article>
+																			</div>
+																			<div class="clearfix"></div>
+																			<p><a href="#" class="btn red-rounded more" data-number="3"><i class="fa fa-angle-down" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Load more</a></p>
+																			</div>
+																	</div>
+													</div>
+											</div><!-- tab panel -->
 									</div>
 		</div> <!-- end of body content -->
 </div>
@@ -643,6 +1034,41 @@
 	                        else if ("5" == e) {
 	                            c = Number(c) + Number(8);
 	                            for (var f = $("#galeri-6 .col-6").size(), g = 1; g < Number(c) + Number(1); g++) $("#section6-" + g).show();
+	                            c >= f && $(this).hide()
+	                        }
+	                        else if ("6" == e) {
+	                            c = Number(c) + Number(8);
+	                            for (var f = $("#galeri-7 .col-6").size(), g = 1; g < Number(c) + Number(1); g++) $("#section7-" + g).show();
+	                            c >= f && $(this).hide()
+	                        }
+	                        else if ("7" == e) {
+	                            c = Number(c) + Number(8);
+	                            for (var f = $("#galeri-8 .col-6").size(), g = 1; g < Number(c) + Number(1); g++) $("#section8-" + g).show();
+	                            c >= f && $(this).hide()
+	                        }
+	                        else if ("8" == e) {
+	                            c = Number(c) + Number(8);
+	                            for (var f = $("#galeri-9 .col-6").size(), g = 1; g < Number(c) + Number(1); g++) $("#section9-" + g).show();
+	                            c >= f && $(this).hide()
+	                        }
+	                        else if ("9" == e) {
+	                            c = Number(c) + Number(8);
+	                            for (var f = $("#galeri-10 .col-6").size(), g = 1; g < Number(c) + Number(1); g++) $("#section10-" + g).show();
+	                            c >= f && $(this).hide()
+	                        }
+	                        else if ("10" == e) {
+	                            c = Number(c) + Number(8);
+	                            for (var f = $("#galeri-11 .col-6").size(), g = 1; g < Number(c) + Number(1); g++) $("#section11-" + g).show();
+	                            c >= f && $(this).hide()
+	                        }
+	                        else if ("11" == e) {
+	                            c = Number(c) + Number(8);
+	                            for (var f = $("#galeri-12 .col-6").size(), g = 1; g < Number(c) + Number(1); g++) $("#section12-" + g).show();
+	                            c >= f && $(this).hide()
+	                        }
+	                        else if ("12" == e) {
+	                            c = Number(c) + Number(8);
+	                            for (var f = $("#galeri-13 .col-6").size(), g = 1; g < Number(c) + Number(1); g++) $("#section13-" + g).show();
 	                            c >= f && $(this).hide()
 	                        }
 	                    }), $(".less").click(function(a) {
