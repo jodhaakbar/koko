@@ -876,6 +876,66 @@
 																	</div>
 													</div>
 											</div><!-- tab panel -->
+											<div role="tabpanel" class="tab-pane fade" id="padang">
+													<div class="gallery-detail">
+															<div class="container-fluid">
+																	<div class="col-md-3">
+																			<h4>GOR UNP (Universitas Negeri Padang)</h4>
+																			<p>6 May 2018</p>
+																	</div>
+															</div>
+													</div>
+													<div class="wrap-gallery">
+															<div class="fotos">
+																	<div class="gallerij">
+																			<div class="row" id="galeri-14">
+																					<article class="col-6 col-sm-3" id="section14-1">
+																							<a href="#">
+																									<img data-position="108" src="<?php echo e(URL::to('/')); ?>/asset/images/padang-1.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section14-2">
+																							<a href="#">
+																									<img data-position="109" src="<?php echo e(URL::to('/')); ?>/asset/images/padang-2.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section14-3">
+																							<a href="#">
+																									<img data-position="110" src="<?php echo e(URL::to('/')); ?>/asset/images/padang-3.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section14-4">
+																							<a href="#">
+																									<img data-position="111" src="<?php echo e(URL::to('/')); ?>/asset/images/padang-4.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section14-5">
+																							<a href="#">
+																									<img data-position="112" src="<?php echo e(URL::to('/')); ?>/asset/images/padang-5.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section14-6">
+																							<a href="#">
+																									<img data-position="113" src="<?php echo e(URL::to('/')); ?>/asset/images/padang-6.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section14-7">
+																							<a href="#">
+																									<img data-position="114" src="<?php echo e(URL::to('/')); ?>/asset/images/padang-7.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section14-8">
+																							<a href="#">
+																									<img data-position="115" src="<?php echo e(URL::to('/')); ?>/asset/images/padang-8.JPG" alt="">
+																							</a>
+																					</article>
+																			</div>
+																			<div class="clearfix"></div>
+																			<p><a href="#" class="btn red-rounded more" data-number="3"><i class="fa fa-angle-down" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Load more</a></p>
+																			</div>
+																	</div>
+													</div>
+											</div><!-- tab panel -->
 									</div>
 		</div> <!-- end of body content -->
 </div>

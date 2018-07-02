@@ -901,32 +901,32 @@
 																					</article>
 																					<article class="col-6 col-sm-3" id="section14-3">
 																							<a href="#">
-																									<img data-position="102" src="{{ URL::to('/') }}/asset/images/padang-3.JPG" alt="">
+																									<img data-position="110" src="{{ URL::to('/') }}/asset/images/padang-3.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section14-4">
 																							<a href="#">
-																									<img data-position="110" src="{{ URL::to('/') }}/asset/images/padang-4.JPG" alt="">
+																									<img data-position="111" src="{{ URL::to('/') }}/asset/images/padang-4.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section14-5">
 																							<a href="#">
-																									<img data-position="111" src="{{ URL::to('/') }}/asset/images/padang-5.JPG" alt="">
+																									<img data-position="112" src="{{ URL::to('/') }}/asset/images/padang-5.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section14-6">
 																							<a href="#">
-																									<img data-position="112" src="{{ URL::to('/') }}/asset/images/padang-6.JPG" alt="">
+																									<img data-position="113" src="{{ URL::to('/') }}/asset/images/padang-6.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section14-7">
 																							<a href="#">
-																									<img data-position="113" src="{{ URL::to('/') }}/asset/images/padang-7.JPG" alt="">
+																									<img data-position="114" src="{{ URL::to('/') }}/asset/images/padang-7.JPG" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section14-8">
 																							<a href="#">
-																									<img data-position="114" src="{{ URL::to('/') }}/asset/images/padang-8.JPG" alt="">
+																									<img data-position="115" src="{{ URL::to('/') }}/asset/images/padang-8.JPG" alt="">
 																							</a>
 																					</article>
 																			</div>
