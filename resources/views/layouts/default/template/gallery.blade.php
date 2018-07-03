@@ -124,7 +124,7 @@
 													<li role="presentation"><a href="#padang" class="noround" aria-controls="profile" role="tab" data-toggle="tab">PADANG</a></li>
 													<li role="presentation"><a href="#siantar" class="roundright" aria-controls="messages" role="tab" data-toggle="tab">SIANTAR</a></li>			
 												</ul> -->
-												<select class="form-control" id="city" style="margin-top: 50px;">
+												<select class="form-control" id="city" style="margin-top: 100px;">
 													<option value="Section1">BEKASI</option>
 													<option value="Section2">BANDUNG</option>
 													<option value="bengkulu">BENGKULU</option>
