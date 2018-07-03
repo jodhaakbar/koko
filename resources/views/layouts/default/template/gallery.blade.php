@@ -903,7 +903,7 @@
 													<div class="gallery-detail">
 															<div class="container-fluid">
 																	<div class="col-md-3">
-																			<h4>GOR UNP (Universitas Negeri Padang)</h4>
+																			<h4>GOR UNP Universitas Negeri Padang</h4>
 																			<p>6 May 2018</p>
 																	</div>
 															</div>
