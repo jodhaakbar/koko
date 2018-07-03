@@ -108,15 +108,38 @@
 									</div>
 									<div class="visible-xs">
 											<div class=" col-xs-8 col-xs-offset-1">
-													<ul class="nav nav-tabs" role="tablist">
-															<li role="presentation" class="active"><a href="#Section1" class="roundleft" aria-controls="home" role="tab" data-toggle="tab">BEKASI</a></li>
-											<li role="presentation"><a href="#Section2" class="noround" aria-controls="profile" role="tab" data-toggle="tab">BANDUNG</a></li>
-											<li role="presentation"><a href="#bengkulu" class="noround" aria-controls="messages" role="tab" data-toggle="tab">BENGKULU</a></li>
-											<li role="presentation"><a href="#malang" class="noround" aria-controls="messages" role="tab" data-toggle="tab">MALANG</a></li>
-											<li role="presentation"><a href="#solo" class="noround" aria-controls="messages" role="tab" data-toggle="tab">SOLO</a></li>
-											<li role="presentation"><a href="#pontianak" class="noround" aria-controls="messages" role="tab" data-toggle="tab">PONTIANAK</a></li>
-											<li role="presentation"><a href="#siantar" class="roundright" aria-controls="messages" role="tab" data-toggle="tab">SIANTAR</a></li>
-													</ul>
+												<!-- <ul class="nav nav-tabs" role="tablist">
+													<li role="presentation" class="active"><a href="#Section1" class="roundleft" aria-controls="home" role="tab" data-toggle="tab">BEKASI</a></li>
+													<li role="presentation"><a href="#Section2" class="noround" aria-controls="profile" role="tab" data-toggle="tab">BANDUNG</a></li>
+													<li role="presentation"><a href="#bengkulu" class="noround" aria-controls="messages" role="tab" data-toggle="tab">BENGKULU</a></li>
+													<li role="presentation"><a href="#malang" class="noround" aria-controls="messages" role="tab" data-toggle="tab">MALANG</a></li>
+													<li role="presentation"><a href="#solo" class="noround" aria-controls="messages" role="tab" data-toggle="tab">SOLO</a></li>
+													<li role="presentation"><a href="#pontianak" class="noround" aria-controls="messages" role="tab" data-toggle="tab">PONTIANAK</a></li>
+													<li role="presentation"><a href="#cirebon" class="noround" aria-controls="profile" role="tab" data-toggle="tab">CIREBON</a></li>
+													<li role="presentation"><a href="#lampung" class="noround" aria-controls="profile" role="tab" data-toggle="tab">LAMPUNG</a></li>
+													<li role="presentation"><a href="#makassar" class="noround" aria-controls="profile" role="tab" data-toggle="tab">MAKASSAR</a></li>
+													<li role="presentation"><a href="#tangsel" class="noround" aria-controls="profile" role="tab" data-toggle="tab">TANGSEL</a></li>
+													<li role="presentation"><a href="#tegal" class="noround" aria-controls="profile" role="tab" data-toggle="tab">TEGAL</a></li>
+													<li role="presentation"><a href="#palu" class="noround" aria-controls="profile" role="tab" data-toggle="tab">PALU</a></li>
+													<li role="presentation"><a href="#padang" class="noround" aria-controls="profile" role="tab" data-toggle="tab">PADANG</a></li>
+													<li role="presentation"><a href="#siantar" class="roundright" aria-controls="messages" role="tab" data-toggle="tab">SIANTAR</a></li>			
+												</ul> -->
+												<select class="form-control" id="city" style="margin-top: 50px;">
+													<option value="Section1">BEKASI</option>
+													<option value="Section2">BANDUNG</option>
+													<option value="bengkulu">BENGKULU</option>
+													<option value="malang">MALANG</option>
+													<option value="solo">SOLO</option>
+													<option value="pontianak">PONTIANAK</option>
+													<option value="cirebon">CIREBON</option>
+													<option value="lampung">LAMPUNG</option>
+													<option value="makassar">MAKASSAR</option>
+													<option value="tangsel">TANGSEL</option>
+													<option value="tegal">TEGAL</option>
+													<option value="palu">PALU</option>
+													<option value="padang">PADANG</option>
+													<option value="siantar">SIANTAR</option>
+												</select>
 											</div>
 									</div>
 									<div class="clearfix"></div>
@@ -1170,6 +1193,10 @@
 	                        })
 	                    })
 	                })
+				$('#city').change(function () {
+				  city = $( "#city" ).val();
+				  $('[href="#'+city+'"]').tab('show');
+				});
 	    </script>
 	</body>
 	</html>
