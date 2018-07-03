@@ -107,7 +107,7 @@
 									</ul> -->
 									</div>
 									<div class="visible-xs">
-											<div class=" col-xs-8 col-xs-offset-1">
+											<div class=" col-xs-12">
 												<!-- <ul class="nav nav-tabs" role="tablist">
 													<li role="presentation" class="active"><a href="#Section1" class="roundleft" aria-controls="home" role="tab" data-toggle="tab">BEKASI</a></li>
 													<li role="presentation"><a href="#Section2" class="noround" aria-controls="profile" role="tab" data-toggle="tab">BANDUNG</a></li>

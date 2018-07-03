@@ -107,7 +107,7 @@
 									</ul> -->
 									</div>
 									<div class="visible-xs">
-											<div class=" col-xs-8 col-xs-offset-1">
+											<div class=" col-xs-12">
 												<!-- <ul class="nav nav-tabs" role="tablist">
 													<li role="presentation" class="active"><a href="#Section1" class="roundleft" aria-controls="home" role="tab" data-toggle="tab">BEKASI</a></li>
 													<li role="presentation"><a href="#Section2" class="noround" aria-controls="profile" role="tab" data-toggle="tab">BANDUNG</a></li>
@@ -124,7 +124,7 @@
 													<li role="presentation"><a href="#padang" class="noround" aria-controls="profile" role="tab" data-toggle="tab">PADANG</a></li>
 													<li role="presentation"><a href="#siantar" class="roundright" aria-controls="messages" role="tab" data-toggle="tab">SIANTAR</a></li>			
 												</ul> -->
-												<select class="form-control" id="city" style="margin-top: 50px;">
+												<select class="form-control" id="city" style="margin-top: 100px;">
 													<option value="Section1">BEKASI</option>
 													<option value="Section2">BANDUNG</option>
 													<option value="bengkulu">BENGKULU</option>
