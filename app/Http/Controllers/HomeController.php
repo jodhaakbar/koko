@@ -640,6 +640,7 @@ class HomeController extends Controller {
 
 	public function pageDaftar()
 	{
+		dd(\SiteHelpers::urlLoginSso());
 		if(!\Auth::check())
 			return  Redirect(\SiteHelpers::urlLoginSso());
 
