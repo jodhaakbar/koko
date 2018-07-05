@@ -31,6 +31,7 @@ class MpesertaController extends Controller {
 
 	public function index( Request $request )
 	{
+		dd(\SiteHelpers::urlLoginSso());
 		// Make Sure users Logged
 		if(!\Auth::check())
 			return redirect('user/login')->with('status', 'error')->with('message','You are not login');
