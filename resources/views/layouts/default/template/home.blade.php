@@ -85,7 +85,7 @@
 	    		<div class="col-md-4">
 	    			<div class="banner-right">
 	    				<h4>JADWAL LOMBA</h4>
-	    				<p>Surabaya - 29 July 2018</p>
+	    				<p>Surabaya, Palembang, Pare-Pare - 29 July 2018</p>
 	    				<h5>TBC</h5>
 	    				<p>tbc</p>
 	    				<!-- <p>Kota Bekasi, Jawa Barat 17141</p><br /> -->
