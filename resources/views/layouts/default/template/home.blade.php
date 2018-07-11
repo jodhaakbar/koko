@@ -85,9 +85,9 @@
 	    		<div class="col-md-4">
 	    			<div class="banner-right">
 	    				<h4>JADWAL LOMBA</h4>
-	    				<p>Tegal - 10 May 2018</p>
-	    				<h5>GOR Wisa Geni Tegal</h5>
-	    				<p>Jl. Wisa Geni no 8 Tegan Jateng</p>
+	    				<p>Surabaya - 29 July 2018</p>
+	    				<h5>TBC</h5>
+	    				<p>tbc</p>
 	    				<!-- <p>Kota Bekasi, Jawa Barat 17141</p><br /> -->
 	    				</p>
 	    				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.1002662296883!2d109.13993371744384!3d-6.878589899999992!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6fb8329271175d%3A0x8f9e6aa9b62fb620!2sGor+Wisanggeni+Kota+Tegal!5e0!3m2!1sen!2sid!4v1525840800179" width="100%" height="310px" frameborder="0" style="border:0" allowfullscreen></iframe>
