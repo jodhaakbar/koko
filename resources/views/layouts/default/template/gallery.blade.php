@@ -122,7 +122,7 @@
 													<li role="presentation"><a href="#tegal" class="noround" aria-controls="profile" role="tab" data-toggle="tab">TEGAL</a></li>
 													<li role="presentation"><a href="#palu" class="noround" aria-controls="profile" role="tab" data-toggle="tab">PALU</a></li>
 													<li role="presentation"><a href="#padang" class="noround" aria-controls="profile" role="tab" data-toggle="tab">PADANG</a></li>
-													<li role="presentation"><a href="#siantar" class="roundright" aria-controls="messages" role="tab" data-toggle="tab">SIANTAR</a></li>			
+													<li role="presentation"><a href="#siantar" class="roundright" aria-controls="messages" role="tab" data-toggle="tab">SIANTAR</a></li>
 												</ul> -->
 												<select class="form-control" id="city" style="margin-top: 100px;">
 													<option value="Section1">BEKASI</option>
@@ -539,42 +539,42 @@
 																			<div class="row" id="galeri-8">
 																					<article class="col-6 col-sm-3" id="section8-1">
 																							<a href="#">
-																									<img data-position="57" src="{{ URL::to('/') }}/asset/images/cirebon-1.JPG" alt="">
+																									<img data-position="57" src="{{ URL::to('/') }}/asset/images/cirebon-1.jpg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section8-2">
 																							<a href="#">
-																									<img data-position="58" src="{{ URL::to('/') }}/asset/images/cirebon-2.JPG" alt="">
+																									<img data-position="58" src="{{ URL::to('/') }}/asset/images/cirebon-2.jpg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section8-3">
 																							<a href="#">
-																									<img data-position="59" src="{{ URL::to('/') }}/asset/images/cirebon-3.JPG" alt="">
+																									<img data-position="59" src="{{ URL::to('/') }}/asset/images/cirebon-3.jpg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section8-4">
 																							<a href="#">
-																									<img data-position="60" src="{{ URL::to('/') }}/asset/images/cirebon-4.JPG" alt="">
+																									<img data-position="60" src="{{ URL::to('/') }}/asset/images/cirebon-4.jpg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section8-5">
 																							<a href="#">
-																									<img data-position="61" src="{{ URL::to('/') }}/asset/images/cirebon-5.JPG" alt="">
+																									<img data-position="61" src="{{ URL::to('/') }}/asset/images/cirebon-5.jpg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section8-6">
 																							<a href="#">
-																									<img data-position="62" src="{{ URL::to('/') }}/asset/images/cirebon-6.JPG" alt="">
+																									<img data-position="62" src="{{ URL::to('/') }}/asset/images/cirebon-6.jpg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section8-7">
 																							<a href="#">
-																									<img data-position="63" src="{{ URL::to('/') }}/asset/images/cirebon-7.JPG" alt="">
+																									<img data-position="63" src="{{ URL::to('/') }}/asset/images/cirebon-7.jpg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section8-8">
 																							<a href="#">
-																									<img data-position="64" src="{{ URL::to('/') }}/asset/images/cirebon-8.JPG" alt="">
+																									<img data-position="64" src="{{ URL::to('/') }}/asset/images/cirebon-8.jpg" alt="">
 																							</a>
 																					</article>
 																			</div>
@@ -659,42 +659,42 @@
 																			<div class="row" id="galeri-10">
 																					<article class="col-6 col-sm-3" id="section10-1">
 																							<a href="#">
-																									<img data-position="73" src="{{ URL::to('/') }}/asset/images/makassar-1.JPEG" alt="">
+																									<img data-position="73" src="{{ URL::to('/') }}/asset/images/makassar-1.jpeg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section10-2">
 																							<a href="#">
-																									<img data-position="74" src="{{ URL::to('/') }}/asset/images/makassar-2.JPEG" alt="">
+																									<img data-position="74" src="{{ URL::to('/') }}/asset/images/makassar-2.jpeg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section10-3">
 																							<a href="#">
-																									<img data-position="75" src="{{ URL::to('/') }}/asset/images/makassar-3.JPEG" alt="">
+																									<img data-position="75" src="{{ URL::to('/') }}/asset/images/makassar-3.jpeg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section10-4">
 																							<a href="#">
-																									<img data-position="76" src="{{ URL::to('/') }}/asset/images/makassar-4.JPEG" alt="">
+																									<img data-position="76" src="{{ URL::to('/') }}/asset/images/makassar-4.jpeg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section10-5">
 																							<a href="#">
-																									<img data-position="77" src="{{ URL::to('/') }}/asset/images/makassar-5.JPEG" alt="">
+																									<img data-position="77" src="{{ URL::to('/') }}/asset/images/makassar-5.jpeg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section10-6">
 																							<a href="#">
-																									<img data-position="78" src="{{ URL::to('/') }}/asset/images/makassar-6.JPEG" alt="">
+																									<img data-position="78" src="{{ URL::to('/') }}/asset/images/makassar-6.jpeg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section10-7">
 																							<a href="#">
-																									<img data-position="79" src="{{ URL::to('/') }}/asset/images/makassar-7.JPEG" alt="">
+																									<img data-position="79" src="{{ URL::to('/') }}/asset/images/makassar-7.jpeg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section10-8">
 																							<a href="#">
-																									<img data-position="80" src="{{ URL::to('/') }}/asset/images/makassar-8.JPEG" alt="">
+																									<img data-position="80" src="{{ URL::to('/') }}/asset/images/makassar-8.jpeg" alt="">
 																							</a>
 																					</article>
 																			</div>
@@ -794,42 +794,42 @@
 																			<div class="row" id="galeri-12">
 																					<article class="col-6 col-sm-3" id="section12-1">
 																							<a href="#">
-																									<img data-position="92" src="{{ URL::to('/') }}/asset/images/tegal-1.JPG" alt="">
+																									<img data-position="92" src="{{ URL::to('/') }}/asset/images/tegal-1.jpg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section12-2">
 																							<a href="#">
-																									<img data-position="93" src="{{ URL::to('/') }}/asset/images/tegal-2.JPG" alt="">
+																									<img data-position="93" src="{{ URL::to('/') }}/asset/images/tegal-2.jpg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section12-3">
 																							<a href="#">
-																									<img data-position="94" src="{{ URL::to('/') }}/asset/images/tegal-3.JPG" alt="">
+																									<img data-position="94" src="{{ URL::to('/') }}/asset/images/tegal-3.jpg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section12-4">
 																							<a href="#">
-																									<img data-position="95" src="{{ URL::to('/') }}/asset/images/tegal-4.JPG" alt="">
+																									<img data-position="95" src="{{ URL::to('/') }}/asset/images/tegal-4.jpg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section12-5">
 																							<a href="#">
-																									<img data-position="96" src="{{ URL::to('/') }}/asset/images/tegal-5.JPG" alt="">
+																									<img data-position="96" src="{{ URL::to('/') }}/asset/images/tegal-5.jpg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section12-6">
 																							<a href="#">
-																									<img data-position="97" src="{{ URL::to('/') }}/asset/images/tegal-6.JPG" alt="">
+																									<img data-position="97" src="{{ URL::to('/') }}/asset/images/tegal-6.jpg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section12-7">
 																							<a href="#">
-																									<img data-position="98" src="{{ URL::to('/') }}/asset/images/tegal-7.JPG" alt="">
+																									<img data-position="98" src="{{ URL::to('/') }}/asset/images/tegal-7.jpg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section12-8">
 																							<a href="#">
-																									<img data-position="99" src="{{ URL::to('/') }}/asset/images/tegal-8.JPG" alt="">
+																									<img data-position="99" src="{{ URL::to('/') }}/asset/images/tegal-8.jpg" alt="">
 																							</a>
 																					</article>
 																			</div>
