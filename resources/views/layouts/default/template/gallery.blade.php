@@ -134,17 +134,18 @@
 													<option value="Section1">BEKASI</option>
 													<option value="Section2">BANDUNG</option>
 													<option value="bengkulu">BENGKULU</option>
+														<option value="solo">SOLO</option>
 													<option value="malang">MALANG</option>
-													<option value="solo">SOLO</option>
-													<option value="pontianak">PONTIANAK</option>
-													<option value="cirebon">CIREBON</option>
-													<option value="lampung">LAMPUNG</option>
-													<option value="makassar">MAKASSAR</option>
-													<option value="tangsel">TANGSEL</option>
-													<option value="tegal">TEGAL</option>
-													<option value="palu">PALU</option>
-													<option value="padang">PADANG</option>
 													<option value="siantar">SIANTAR</option>
+													<option value="palu">PALU</option>
+
+													<option value="pontianak">PONTIANAK</option>
+													<option value="tangsel">TANGSEL</option>
+													<option value="makassar">MAKASSAR</option>
+													<option value="cirebon">CIREBON</option>
+														<option value="tegal">TEGAL</option>
+															<option value="padang">PADANG</option>
+													<option value="lampung">LAMPUNG</option>
 												</select>
 											</div>
 									</div>
