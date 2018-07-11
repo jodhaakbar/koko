@@ -84,17 +84,23 @@
 											<li role="presentation" class="active"><a href="#Section1" class="roundleft" aria-controls="home" role="tab" data-toggle="tab">BEKASI</a></li>
 											<li role="presentation"><a href="#Section2" class="noround" aria-controls="profile" role="tab" data-toggle="tab">BANDUNG</a></li>
 											<li role="presentation"><a href="#bengkulu" class="noround" aria-controls="messages" role="tab" data-toggle="tab">BENGKULU</a></li>
-											<li role="presentation"><a href="#malang" class="noround" aria-controls="messages" role="tab" data-toggle="tab">MALANG</a></li>
 											<li role="presentation"><a href="#solo" class="noround" aria-controls="messages" role="tab" data-toggle="tab">SOLO</a></li>
-											<li role="presentation"><a href="#pontianak" class="noround" aria-controls="messages" role="tab" data-toggle="tab">PONTIANAK</a></li>
-											<li role="presentation"><a href="#cirebon" class="noround" aria-controls="profile" role="tab" data-toggle="tab">CIREBON</a></li>
-											<li role="presentation"><a href="#lampung" class="noround" aria-controls="profile" role="tab" data-toggle="tab">LAMPUNG</a></li>
-											<li role="presentation"><a href="#makassar" class="noround" aria-controls="profile" role="tab" data-toggle="tab">MAKASSAR</a></li>
-											<li role="presentation"><a href="#tangsel" class="noround" aria-controls="profile" role="tab" data-toggle="tab">TANGSEL</a></li>
-											<li role="presentation"><a href="#tegal" class="noround" aria-controls="profile" role="tab" data-toggle="tab">TEGAL</a></li>
-											<li role="presentation"><a href="#palu" class="noround" aria-controls="profile" role="tab" data-toggle="tab">PALU</a></li>
-											<li role="presentation"><a href="#padang" class="noround" aria-controls="profile" role="tab" data-toggle="tab">PADANG</a></li>
+											<li role="presentation"><a href="#malang" class="noround" aria-controls="messages" role="tab" data-toggle="tab">MALANG</a></li>
 											<li role="presentation"><a href="#siantar" class="roundright" aria-controls="messages" role="tab" data-toggle="tab">SIANTAR</a></li>
+											<li role="presentation"><a href="#palu" class="noround" aria-controls="profile" role="tab" data-toggle="tab">PALU</a></li>
+											<li role="presentation"><a href="#pontianak" class="noround" aria-controls="messages" role="tab" data-toggle="tab">PONTIANAK</a></li>
+											<li role="presentation"><a href="#tangsel" class="noround" aria-controls="profile" role="tab" data-toggle="tab">TANGSEL</a></li>
+											<li role="presentation"><a href="#makassar" class="noround" aria-controls="profile" role="tab" data-toggle="tab">MAKASSAR</a></li>
+											<li role="presentation"><a href="#cirebon" class="noround" aria-controls="profile" role="tab" data-toggle="tab">CIREBON</a></li>
+											<li role="presentation"><a href="#tegal" class="noround" aria-controls="profile" role="tab" data-toggle="tab">TEGAL</a></li>
+											<li role="presentation"><a href="#padang" class="noround" aria-controls="profile" role="tab" data-toggle="tab">PADANG</a></li>
+											<li role="presentation"><a href="#lampung" class="noround" aria-controls="profile" role="tab" data-toggle="tab">LAMPUNG</a></li>
+
+
+
+
+
+
 									</ul><br />
 									<!-- <ul class="nav nav-tabs" role="tablist">
 											<li role="presentation"><a href="#cirebon" class="roundleft" aria-controls="home" role="tab" data-toggle="tab">CIREBON</a></li>
