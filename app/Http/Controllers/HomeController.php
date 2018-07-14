@@ -52,6 +52,8 @@ class HomeController extends Controller {
 			return $this->pageGaleri();
 		}elseif($page == 'video'){
 			return $this->pageVideo();
+		}elseif($page == 'reg_thank_you'){
+			return $this->pageThanks();
 		}
 
 
@@ -629,6 +631,15 @@ class HomeController extends Controller {
 
 
 	public function pageJadwalLomba()
+	{
+		// if(!\Auth::check())
+		// 	return  Redirect(\SiteHelpers::urlLoginSso());
+
+		return view('layouts.default.template.thanks');
+
+	}
+
+	public function pageThanks()
 	{
 		// if(!\Auth::check())
 		// 	return  Redirect(\SiteHelpers::urlLoginSso());

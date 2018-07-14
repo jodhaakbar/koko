@@ -25,6 +25,9 @@ Route::get('jadwallomba', 'HomeController@index');
 Route::get('daftar', 'HomeController@index');
 Route::get('galeri', 'HomeController@index');
 Route::get('video', 'HomeController@index');
+Route::get('reg_thank_you', 'HomeController@index');
+
+
 
 
 ?>
