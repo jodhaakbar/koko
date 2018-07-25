@@ -635,7 +635,7 @@ class HomeController extends Controller {
 		// if(!\Auth::check())
 		// 	return  Redirect(\SiteHelpers::urlLoginSso());
 
-		return view('layouts.default.template.thanks');
+		return view('layouts.default.template.jadwal');
 
 	}
 
