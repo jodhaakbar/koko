@@ -63,6 +63,13 @@
 			{lat: -0.8995351 , lng: 100.3453489 , zoom: 15 , name: "Padang",dates:"6 May 2018",venue:"GOR UNP (Universitas Negeri Padang)",fulladdress:"West Air Tawar, North Padang, Padang City, West Sumatra"},
 			{lat: -6.8787379 , lng: 109.1350537 , zoom: 15 , name: "Tegal",dates:"19 May 2018",venue:"GOR Wisanggeni Tegal",fulladdress:"Jl. Wisa Geni no 8 Tegan Jateng"},
 			{lat: -5.3993206 , lng: 105.2676337 , zoom: 15 , name: "Lampung",dates:"6 May 2018",venue:"GOR Way Halim",fulladdress:"Jagabaya III, Way Halim, Bandar Lampung City, Lampung 35122"},
+
+			{lat: -4.0156589 , lng: 119.6216351 , zoom: 15 , name: "Pare Pare",dates:"12 Agustus 2018",venue:"Gedung Islamic Center",fulladdress:"Mallusetasi, Ujung, Kota Pare Sulawesi Selatan 91111"},
+			{lat:  -6.401264, lng:  106.8485668, zoom: 15 , name: "Depok",dates:"19 Agustus 2018",venue:"Gedung Pertemuan Samina",fulladdress:"Jl. Kebahagiaan No. 78 RT 10/01, Abadijaya, Sukmajaya, Depok City, West Java 16417"},
+			{lat:  -7.6310408, lng:  111.52749, zoom: 15 , name: "Madiun",dates:"19 Agustus 2018",venue:"GOR Wilis Madiun",fulladdress:"Kartoharjo, Kota Madiun, Jawa Timur, 63117"},
+			{lat:  -3.4613587, lng:  114.8279579, zoom: 15 , name: "Banjarmasin",dates:"26 Agustus 2018",venue:"GOR Rudi Rusnawan",fulladdress:"JL. Trikora Guntungmanggis, Landasan Ulin, Kota Banjar Baru, Kalimantan Selatan 70714"},
+			{lat:  0.4748425, lng:  101.4515713, zoom: 15 , name: "Pekanbaru",dates:"26 Agustus 2018",venue:"Gelanggang Remaja Pekanbaru",fulladdress:"JL. Jendral Sudirman, Sidomulyo Tim, Marpoyan Damai, Kota Pekanbaru Riau, 28125"},
+			{lat:  -3.9700366, lng:  122.5178391, zoom: 15 , name: "Kendari",dates:"26 Agustus 2018",venue:"Kendari K-Toz Square",fulladdress:"JL. Saranani, Korumba, Mandonga, Kota Kendari, Sulawesi Tenggara 93111"},
 		];
 
 		function initialize() {

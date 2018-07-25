@@ -96,12 +96,12 @@
 	    		<div class="col-md-4">
 	    			<div class="banner-right">
 	    				<h4>JADWAL LOMBA</h4>
-	    				<p>Surabaya, Palembang, Pare-Pare - 29 July 2018</p>
-	    				<h5>TBC</h5>
-	    				<p>tbc</p>
+	    				<p>Pare Pare - 12 Agustus 2018</p>
+	    				<h5>Gedung Islamic Center</h5>
+	    				<p>Mallusetasi, Ujung, Kota Pare Sulawesi Selatan 91111</p>
 	    				<!-- <p>Kota Bekasi, Jawa Barat 17141</p><br /> -->
 	    				</p>
-	    				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.1002662296883!2d109.13993371744384!3d-6.878589899999992!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6fb8329271175d%3A0x8f9e6aa9b62fb620!2sGor+Wisanggeni+Kota+Tegal!5e0!3m2!1sen!2sid!4v1525840800179" width="100%" height="310px" frameborder="0" style="border:0" allowfullscreen></iframe>
+	    				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3980.022233532824!2d119.62155961465263!3d-4.015838897079591!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2d95bb3c52a2acd9%3A0x957408fc49404652!2sGedung+Islamic+Center!5e0!3m2!1sid!2sid!4v1532480716231" width="100%" height="310px" frameborder="0" style="border:0" allowfullscreen></iframe>
 	    			</div>
 	    		</div>
 	    		<div class="clearfix"></div>
