@@ -6,26 +6,6 @@
 <div class="page-content-wrapper m-t">
 
 <?php
- //  $current_date = date('d/m/Y -- H:i:s');
- //
- //  $total_submission = \DB::table('tb_submission')
- //                     ->select(DB::raw('count(id) as total'))
- //                     ->first();
- //
- // $total_user = \DB::table('tb_users')
- //                    ->select(DB::raw('count(id) as total'))
- //                    ->first();
- //
- //  $total_idm = \DB::table('tb_users')
- //                     ->select(DB::raw('count(id) as total'))
- //                     ->where('no_mypoin','>','0')
- //                     ->first();
- //
- // $total_sat = \DB::table('tb_users')
- //                    ->select(DB::raw('count(id) as total'))
- //                    ->where('no_ponta','>','0')
- //                    ->first();
-  //dd();
 
 
  ?>
@@ -41,17 +21,7 @@
     </div>
 
 
-<div class="row">
-<div class="sbox-title"> <h3>PERINGKAT VOTING  [ {{ $current_date }} ] </h3></div>
-  <div class="table-responsive">
-              <t
-          </div>
 
-
-
-
-
-        </div>
 
     </div>
 </div>
