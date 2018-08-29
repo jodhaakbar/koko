@@ -107,7 +107,8 @@
 											<li role="presentation"><a href="#padang" class="noround" aria-controls="profile" role="tab" data-toggle="tab">PADANG</a></li>
 											<li role="presentation"><a href="#lampung" class="noround" aria-controls="profile" role="tab" data-toggle="tab">LAMPUNG</a></li>
 											<li role="presentation"><a href="#pare-pare" class="noround" aria-controls="profile" role="tab" data-toggle="tab">PARE-PARE</a></li>
-
+											<li role="presentation"><a href="#depok" class="noround" aria-controls="profile" role="tab" data-toggle="tab">DEPOK</a></li>
+											<li role="presentation"><a href="#madiun" class="noround" aria-controls="profile" role="tab" data-toggle="tab">MADIUN</a></li>
 
 
 
@@ -159,6 +160,8 @@
 															<option value="padang">PADANG</option>
 													<option value="lampung">LAMPUNG</option>
 													<option value="pare-pare">PARE-PARE</option>
+													<option value="depok">DEPOK</option>
+													<option value="madiun">MADIUN</option>
 												</select>
 											</div>
 									</div>
@@ -1039,6 +1042,126 @@
 																	</div>
 													</div>
 											</div><!-- tab panel -->
+											<div role="tabpanel" class="tab-pane fade" id="depok">
+													<div class="gallery-detail">
+															<div class="container-fluid">
+																	<div class="col-md-3">
+																			<h4>Gedung Pertemuan Samina</h4>
+																			<p>19 Agustus 2018</p>
+																	</div>
+															</div>
+													</div>
+													<div class="wrap-gallery">
+															<div class="fotos">
+																	<div class="gallerij">
+																			<div class="row" id="galeri-14">
+																					<article class="col-6 col-sm-3" id="section16-1">
+																							<a href="#">
+																									<img data-position="124" src="{{ URL::to('/') }}/asset/images/depok-1.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section16-2">
+																							<a href="#">
+																									<img data-position="125" src="{{ URL::to('/') }}/asset/images/depok-2.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section16-3">
+																							<a href="#">
+																									<img data-position="126" src="{{ URL::to('/') }}/asset/images/depok-3.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section16-4">
+																							<a href="#">
+																									<img data-position="127" src="{{ URL::to('/') }}/asset/images/depok-4.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section16-5">
+																							<a href="#">
+																									<img data-position="128" src="{{ URL::to('/') }}/asset/images/depok-5.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section16-6">
+																							<a href="#">
+																									<img data-position="129" src="{{ URL::to('/') }}/asset/images/depok-6.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section16-7">
+																							<a href="#">
+																									<img data-position="130" src="{{ URL::to('/') }}/asset/images/depok-7.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section16-8">
+																							<a href="#">
+																									<img data-position="131" src="{{ URL::to('/') }}/asset/images/depok-8.JPG" alt="">
+																							</a>
+																					</article>
+																			</div>
+																			<div class="clearfix"></div>
+																			<p><a href="#" class="btn red-rounded more" data-number="3"><i class="fa fa-angle-down" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Load more</a></p>
+																			</div>
+																	</div>
+													</div>
+											</div><!-- tab panel -->
+											<div role="tabpanel" class="tab-pane fade" id="madiun">
+													<div class="gallery-detail">
+															<div class="container-fluid">
+																	<div class="col-md-3">
+																			<h4>GOR Wilis Madiun</h4>
+																			<p>19 Agustus 2018</p>
+																	</div>
+															</div>
+													</div>
+													<div class="wrap-gallery">
+															<div class="fotos">
+																	<div class="gallerij">
+																			<div class="row" id="galeri-14">
+																					<article class="col-6 col-sm-3" id="section17-1">
+																							<a href="#">
+																									<img data-position="132" src="{{ URL::to('/') }}/asset/images/madiun-1.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section17-2">
+																							<a href="#">
+																									<img data-position="133" src="{{ URL::to('/') }}/asset/images/madiun-2.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section17-3">
+																							<a href="#">
+																									<img data-position="134" src="{{ URL::to('/') }}/asset/images/madiun-3.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section17-4">
+																							<a href="#">
+																									<img data-position="135" src="{{ URL::to('/') }}/asset/images/madiun-4.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section17-5">
+																							<a href="#">
+																									<img data-position="136" src="{{ URL::to('/') }}/asset/images/madiun-5.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section17-6">
+																							<a href="#">
+																									<img data-position="137" src="{{ URL::to('/') }}/asset/images/madiun-6.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section17-7">
+																							<a href="#">
+																									<img data-position="138" src="{{ URL::to('/') }}/asset/images/madiun-7.JPG" alt="">
+																							</a>
+																					</article>
+																					<article class="col-6 col-sm-3" id="section17-8">
+																							<a href="#">
+																									<img data-position="139" src="{{ URL::to('/') }}/asset/images/madiun-8.JPG" alt="">
+																							</a>
+																					</article>
+																			</div>
+																			<div class="clearfix"></div>
+																			<p><a href="#" class="btn red-rounded more" data-number="3"><i class="fa fa-angle-down" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Load more</a></p>
+																			</div>
+																	</div>
+													</div>
+											</div><!-- tab panel -->
 									</div>
 		</div> <!-- end of body content -->
 </div>
@@ -1237,6 +1360,16 @@
 	                        else if ("13" == e) {
 	                            c = Number(c) + Number(8);
 	                            for (var f = $("#galeri-14 .col-6").size(), g = 1; g < Number(c) + Number(1); g++) $("#section14-" + g).show();
+	                            c >= f && $(this).hide()
+	                        }
+	                        else if ("14" == e) {
+	                            c = Number(c) + Number(8);
+	                            for (var f = $("#galeri-15 .col-6").size(), g = 1; g < Number(c) + Number(1); g++) $("#section15-" + g).show();
+	                            c >= f && $(this).hide()
+	                        }
+	                        else if ("15" == e) {
+	                            c = Number(c) + Number(8);
+	                            for (var f = $("#galeri-16 .col-6").size(), g = 1; g < Number(c) + Number(1); g++) $("#section16-" + g).show();
 	                            c >= f && $(this).hide()
 	                        }
 	                    }), $(".less").click(function(a) {
