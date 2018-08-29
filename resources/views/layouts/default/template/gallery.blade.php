@@ -1117,42 +1117,42 @@
 																			<div class="row" id="galeri-14">
 																					<article class="col-6 col-sm-3" id="section17-1">
 																							<a href="#">
-																									<img data-position="132" src="{{ URL::to('/') }}/asset/images/madiun-1.JPG" alt="">
+																									<img data-position="132" src="{{ URL::to('/') }}/asset/images/madiun-1.jpeg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section17-2">
 																							<a href="#">
-																									<img data-position="133" src="{{ URL::to('/') }}/asset/images/madiun-2.JPG" alt="">
+																									<img data-position="133" src="{{ URL::to('/') }}/asset/images/madiun-2.jpeg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section17-3">
 																							<a href="#">
-																									<img data-position="134" src="{{ URL::to('/') }}/asset/images/madiun-3.JPG" alt="">
+																									<img data-position="134" src="{{ URL::to('/') }}/asset/images/madiun-3.jpeg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section17-4">
 																							<a href="#">
-																									<img data-position="135" src="{{ URL::to('/') }}/asset/images/madiun-4.JPG" alt="">
+																									<img data-position="135" src="{{ URL::to('/') }}/asset/images/madiun-4.jpeg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section17-5">
 																							<a href="#">
-																									<img data-position="136" src="{{ URL::to('/') }}/asset/images/madiun-5.JPG" alt="">
+																									<img data-position="136" src="{{ URL::to('/') }}/asset/images/madiun-5.jpeg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section17-6">
 																							<a href="#">
-																									<img data-position="137" src="{{ URL::to('/') }}/asset/images/madiun-6.JPG" alt="">
+																									<img data-position="137" src="{{ URL::to('/') }}/asset/images/madiun-6.jpeg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section17-7">
 																							<a href="#">
-																									<img data-position="138" src="{{ URL::to('/') }}/asset/images/madiun-7.JPG" alt="">
+																									<img data-position="138" src="{{ URL::to('/') }}/asset/images/madiun-7.jpeg" alt="">
 																							</a>
 																					</article>
 																					<article class="col-6 col-sm-3" id="section17-8">
 																							<a href="#">
-																									<img data-position="139" src="{{ URL::to('/') }}/asset/images/madiun-8.JPG" alt="">
+																									<img data-position="139" src="{{ URL::to('/') }}/asset/images/madiun-8.jpeg" alt="">
 																							</a>
 																					</article>
 																			</div>
