@@ -96,12 +96,12 @@
 	    		<div class="col-md-4">
 	    			<div class="banner-right">
 	    				<h4>JADWAL LOMBA</h4>
-	    				<p>Pare Pare - 12 Agustus 2018</p>
-	    				<h5>Gedung Islamic Center</h5>
-	    				<p>Mallusetasi, Ujung, Kota Pare Sulawesi Selatan 91111</p>
+	    				<p>KEDIRI - 9 September 2018</p>
+	    				<h5>GOR Jayabaya</h5>
+	    				<p>Jl. GOR Jayabaya, Kediri, Jawa Timur</p>
 	    				<!-- <p>Kota Bekasi, Jawa Barat 17141</p><br /> -->
 	    				</p>
-	    				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3980.022233532824!2d119.62155961465263!3d-4.015838897079591!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2d95bb3c52a2acd9%3A0x957408fc49404652!2sGedung+Islamic+Center!5e0!3m2!1sid!2sid!4v1532480716231" width="100%" height="310px" frameborder="0" style="border:0" allowfullscreen></iframe>
+	    				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.567369052357!2d111.9955284147784!3d-7.835527394354144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7856ff45c866b9%3A0x2d820e35e7af1097!2sJl.+GOR+Jayabaya%2C+Mojoroto%2C+Kota+Kediri%2C+Jawa+Timur!5e0!3m2!1sid!2sid!4v1535941394687" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 	    			</div>
 	    		</div>
 	    		<div class="clearfix"></div>
